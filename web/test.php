@@ -1,7 +1,7 @@
-<html>
+<html lang= "en">
 <head>
 <title>
-    Test        
+    Test
 </title>
 </head>
 <body>
