@@ -1,5 +1,5 @@
 <!-- Fix: Added doctype -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <!-- Fix: Added lang="en" -->
 <html lang="en">
 <head>

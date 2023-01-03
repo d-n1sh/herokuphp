@@ -1,12 +1,10 @@
-<!-- Fix: Added lang="en" -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Fix: Added title -->
     <title>Title</title>
-    <!-- Fix: Added a viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head> 
 <body>
-    Hello World!
+    <!-- Fix: Added descriptive link text -->
+<p>Check out all of our <a href="https://www.tp.edu.sg/landing/industry-partners.html">industry partnerships</a>.</p>
 </body>
 </html>
